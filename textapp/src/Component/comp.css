@@ -1,0 +1,75 @@
+img{
+
+    width: 40px;
+    height: 40px; 
+    margin-right: 5px;
+}
+NavLink{
+ color: white;
+}
+
+footer{
+    background-color: azure;
+    margin-bottom: 10px;
+}
+textarea{
+    padding-left: 5px;
+}
+.n{
+ text-decoration: none;
+ color: black;
+ padding: 15px ;
+ font-size: larger;
+}
+.po{
+    position:absolute;
+    right: 9px;
+}
+.ps{
+    position:relative;
+}
+.size-p{
+    height: 30px;
+    width: 30px;
+}
+.fb{
+    
+    background-color: white;
+    padding: 50px;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 5px;
+    
+}
+.al{
+    text-align: center;
+
+}
+
+.up{
+    display: flex;
+    /* justify-content: center; */
+    padding-right: 50px;
+    background-color: rgba(81, 180, 255, 0.963);
+    font-weight: 400;
+    font-size: 15px;
+  
+}
+.btn{
+    margin-top: 10px;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+/* Contact css */
+
+.error-style{
+    font-size: 12px;
+    color: red;
+}
+
+.req{
+    color: red;
+}
